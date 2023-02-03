@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Defence_tower_Map1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 711,
+                "y": 426
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/User/Desktop/ALURA/GameDev/GameDev/2D Tower Defense/Chris Courses - Tower Defense",
+    "last.imagePath": "C:/Users/User/Desktop/ALURA/GameDev/GameDev/2D Tower Defense/Chris Courses - Tower Defense",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "Arquivos de mapa JavaScript (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 20,
+    "openFiles": [
+        "Defence_tower_Map1.tmx",
+        "tileset.tsx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "Defence_tower_Map1.tmx",
+        "tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
